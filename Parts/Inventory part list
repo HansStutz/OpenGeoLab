@@ -1,0 +1,17 @@
+The attached inventory list will be list the different materials, sensors, step motor etc. which are necessary and have been used. 
+
+# Step Motor and control: 
+not decided yet
+
+
+# Sensors: 
+
+Load measurement for normal stress and shear stress
+2 x S-shape load cells KD80s (https://www.me-systeme.de/shop/de/sensoren/kraftsensoren/kds/kd80s15) with 
+2 x Measurement amplifier GSV-3USB 2mV/V (https://www.me-systeme.de/shop/de/elektronik/gsv-3/gsv-3usb/gsv-3usb1?action_ms=1)
+
+Displacement measurement at the sled 
+2 x  linear potentiometers LRW2-F-100-S (https://www.me-systeme.de/shop/de/sensoren/wegsensoren/lrw2/lrw2-f-x-s1?action_ms=1)
+
+# Material for mechanical parts
+will be updated soon
