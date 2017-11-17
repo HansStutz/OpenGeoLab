@@ -1,0 +1,18 @@
+The soil sample size will be: 100 mm x 60 mm x 25 mm 
+The shear surface of the interface will be: 60 mm x 60 mm
+
+The inital layout for the interface shear device is based on publications by DeJong and Westgate (2009) and Boukpeti and White (2016).
+I have worked with the device described by DeJong (2009) during a lab-visit at UC Davis in July 2017. With respect to the handling and the 
+ease of use, I have decided to use such an initial layout. However, I will try to improve the original layout with respect of the following 
+points: 
+- Improve the ease of use
+- Improve the measurement system
+- Enhance the measurement of the soil deformation using Particle image velocity
+- Possible use of pore-pressure transducer at the interface
+
+Based on this a lot of small modifications to the original device are made.
+
+
+References: 
+Boukpeti, N., & White, D. J. (2017). Interface shear box tests for assessing axial pipe–soil resistance. Géotechnique, 67(1), 18–30. https://doi.org/10.1680/jgeot.15.P.112
+DeJong, J. T., & Westgate, Z. J. (2009). Role of Initial State, Material Properties, and Confinement Condition on Local and Global Soil-Structure Interface Behavior. Journal of Geotechnical and Geoenvironmental Engineering, 135(11), 1646–1660. https://doi.org/10.1061/(ASCE)1090-0241(2009)135:11(1646)
