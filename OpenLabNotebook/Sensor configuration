@@ -1,0 +1,13 @@
+The inital sensor configuration was adjusted from the experimental set-up by DeJong et al. (2003). 
+
+# Load cell
+Both load cells for the measurement of the vertical and shear force are 5 kN S-shape load cells. Comparing different experimental data these
+load cells have a maximum load which will be high enough. Further the S-shape configuration was chosen, because the acquisition tolerance is better
+than with a flat load cell. 
+
+# Linear potentiometers
+The linear potentiometer were chosen with a length of 100mm because this distance is much more then the maximal travel way of the sled.
+Two linear potentiometer were chosen to measure the horizontal sled deformation and average them on each side of the sled. 
+
+
+
