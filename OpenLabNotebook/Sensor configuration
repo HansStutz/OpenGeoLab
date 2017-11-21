@@ -9,5 +9,7 @@ than with a flat load cell.
 The linear potentiometer were chosen with a length of 100mm because this distance is much more then the maximal travel way of the sled.
 Two linear potentiometer were chosen to measure the horizontal sled deformation and average them on each side of the sled. 
 
+# Top cap measurement 
+The top cap measurement will be done over the increments from the step motor which apply the vertical force on top of the soil sample. 
 
 
