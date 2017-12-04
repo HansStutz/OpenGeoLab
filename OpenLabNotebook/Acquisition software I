@@ -1,0 +1,9 @@
+The acquisition and control software that have to be developed for the Open Science Interface shear device will be done with LabView. 
+LabView is a graphical programming system from National instruments. 
+
+After the arrival of the load cells I have integrated in a first draft of a control software. The control software will be programmed with the following parts: 
+1. Initial set-up
+2. Consolidation 
+3. Shear test -> Constant normal load or stiffness conditions
+
+During the test the data must be recorded and also plotted in real time in the program. This is the rough layout for the software development.
