@@ -1,7 +1,7 @@
 The attached inventory list will be list the different materials, sensors, step motor etc. which are necessary and have been used. 
 
 # Step Motor and control: 
-not decided yet
+The step motor and the control is from NanoTec. The step motor is configured with an decoder and gear.   
 
 
 # Sensors: 
